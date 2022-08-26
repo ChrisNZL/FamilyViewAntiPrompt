@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": 			"Family View Anti-Prompt",
-	"version": 			"0.0",
+	"version": 			"1.0",
 	"description": 		"Prevents Chrome from asking to save your Steam Family View PIN as a password.",
 	"author": "			Chris McFarland",
 
