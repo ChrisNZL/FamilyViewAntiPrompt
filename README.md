@@ -8,9 +8,8 @@ _An extension for Google Chrome._
 [Steam's Family View](https://help.steampowered.com/en/faqs/view/6B1A-66BE-E911-3D98) gate page uses a password field for the Family View PIN, which makes Chrome ask if you'd like to update your password. Not helpful.
 
 To prevent this annoyance, this extension:
-- Clones the PIN password field as a regular text field
-- Removes the original password field
-- Sets a custom font for the new field, to render the PIN as squares
+- Modifies the PIN form to replace the password field as a regular text field
+- Sets a custom font for the PIN field, to render the PIN as squares
 
 ... all in an effort to remove the nag of being prompted to update your password when using Steam Family View.
 
