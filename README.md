@@ -15,3 +15,23 @@ To prevent this annoyance, this extension:
 ... all in an effort to remove the nag of being prompted to update your password when using Steam Family View.
 
 _This is an unofficial extension. Steam is a product of Valve Corp._
+
+# Installation instructions
+
+Until Google approves the extension for listing on the Chrome Web Store, the extension has to be manually installed:
+
+1. Download the repository to your harddrive somewhere.
+
+2. In Chrome, go to `chrome://extensions`
+
+3. Enable "Developer mode" in the top-right corner.
+
+4. Click the <kbd>Load unpacked</kbd> button.
+
+5. Choose the deepest "FamilyViewAntiPrompt" folder, which contains the `manifest.json` file.
+
+Once installed, your Extensions page should look something like the following:
+
+<img width="589" alt="extensions" src="https://user-images.githubusercontent.com/280814/186870958-2e47a125-8f8a-4d0b-a9d2-9f5fa2210235.png">
+
+For updates, please view the [Steam discussion thread](https://steamcommunity.com/groups/familyview/discussions/0/1745644917623322853/).
